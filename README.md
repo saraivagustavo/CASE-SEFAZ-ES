@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Language-Python-blue.svg)
+![SQLite](https://img.shields.io/badge/Database-SQLite-003B57.svg?style=flat&logo=sqlite)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+
 # Solução para Case de Estágio - Automação de Processo Seletivo
 
 ## Descrição do Projeto
