@@ -30,19 +30,23 @@ O script `[GustavoSaraivaMariano.py]`
 
 ## Como Executar
 
-1.  **Clone o repositório** para o seu ambiente local:
+Para rodar este script, siga os passos abaixo:
+
+1.  **Clone o repositório** para o seu ambiente local usando o Git:
     ```bash
     git clone [https://github.com/saraivagustavo/CASE-SEFAZ-ES.git](https://github.com/saraivagustavo/CASE-SEFAZ-ES.git)
     ```
+
 2.  **Navegue até o diretório** do projeto:
     ```bash
-    cd NomeDoSeuRepositorio
+    cd CASE-SEFAZ-ES
     ```
+
 3.  **Execute o script Python:**
     ```bash
-    python GustavoSaraivaMariano.py
+    GustavoSaraivaMariano.py
     ```
-Ao executar o script, ele criará o arquivo `processoSeletivo.db` (se ainda não existir) e exibirá as saídas das operações no console.
+Ao executar, o script criará o arquivo de banco de dados (`processoSeletivo.db`) no mesmo diretório (se ele ainda não existir) e imprimirá as informações das operações e consultas diretamente no seu console.
 
 ---
 
